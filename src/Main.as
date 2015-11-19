@@ -9,7 +9,7 @@
 	
 	/**
 	 * ...
-	 * @author bartek prekiel	 */
+	 * @author bartek prekiel!!!	 */
 	public class Main extends MovieClip 
 	{
 		private var gameScreen:GameScreen
@@ -24,7 +24,7 @@
 		}		
 		private function init(e:Event = null):void 
 		{
-			removeEventListener(Event.ADDED_TO_STAGE, init);
+			removeEventListener(Event.ADDED_TO_STAGE, init)d;
 			// entry point			
 			soundPlayer = new SoundPlayer(this);
 			buildIntroSreen();	
