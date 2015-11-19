@@ -1,4 +1,4 @@
-package
+﻿package
 {
 	import flash.display.MovieClip;
 	import flash.events.Event;
@@ -9,8 +9,7 @@ package
 	
 	/**
 	 * ...
-	 * @author Erwin Henraat
-	 */
+	 * @author bartek prekiel	 */
 	public class Main extends MovieClip 
 	{
 		private var gameScreen:GameScreen
