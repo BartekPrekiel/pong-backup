@@ -9,7 +9,7 @@
 	
 	/**
 	 * ...
-	 * @author bartek prekiel!!!	 */
+	 * @author bartek prekiel	 */
 	public class Main extends MovieClip 
 	{
 		private var gameScreen:GameScreen
